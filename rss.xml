@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[joririchard]]></title>
-        <description><![CDATA[joririchard]]></description>
+        <title><![CDATA[Jori Richard]]></title>
+        <description><![CDATA[Jori Richard]]></description>
         <link>https://thegrid.ai/joririchard/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Apr 2016 15:06:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2016 15:11:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/joririchard/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/742aa464-55f7-49e2-a44f-7ecad082bf25.jpg">]]></description>
+            <link>https://thegrid.ai/joririchard/8ad922e1-322f-43dd-a760-6621c1ebb37e/index.html</link>
+            <guid isPermaLink="false">8ad922e1-322f-43dd-a760-6621c1ebb37e</guid>
+            <pubDate>Sat, 30 Apr 2016 15:10:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/01fd5ae8-c0d2-4850-8e18-a72b721511bd.jpg">]]></description>
