@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[joririchard]]></title>
         <description><![CDATA[joririchard]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/joririchard/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Apr 2016 15:01:48 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 30 Apr 2016 15:06:41 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/joririchard/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/01fd5ae8-c0d2-4850-8e18-a72b721511bd.jpg">]]></description>
+            <link>https://thegrid.ai/joririchard/9f4c8a0a-6776-480b-b16d-567b431de281/index.html</link>
+            <guid isPermaLink="false">9f4c8a0a-6776-480b-b16d-567b431de281</guid>
+            <pubDate>Sat, 30 Apr 2016 15:05:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c843587c-cdb3-470d-b8b7-a6c412d840c6.jpg">]]></description>
-            <link>undefinedjori-richard-photos/index.html</link>
+            <link>https://thegrid.ai/joririchard/jori-richard-photos/index.html</link>
             <guid isPermaLink="false">0e19c1e0-eb37-4710-ac3b-ad25837e9847</guid>
             <pubDate>Sat, 30 Apr 2016 15:00:17 GMT</pubDate>
         </item>
